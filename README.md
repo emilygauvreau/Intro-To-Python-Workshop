@@ -1,4 +1,4 @@
-# Intro-To-Python-Workshop
+# Introduction to Python Syntax and Coding Workshop
 
 The following documents were created for a workshop hosted in partnership with McWiCS and STEMCanada.
 The Google Colaboratory Notebook written by myself and co-host Nikita Patel outlines the major topics we deem essential in understanding the basics of Python. It follows the same structure and lay out as a Jupyter Notebook.
